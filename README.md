@@ -3,7 +3,7 @@ McDonald`s Player Escort landing page
 
 It`s my version of McDonalds Player Escort landing page. The site was built using the bootstrap 4, css3 and vanilla JS.
 
-Original: http://eskortamarzen.pl/?fbclid=IwAR3OjqHN8BzB6j4quFMXfPIMxzC1zspmx_iMe2uSJ6e3vwQSnULjrA_pgXo
+Original: http://eskortamarzen.pl
 
 My version: https://plonion.github.io/McDonalds-Player-Escort/
 
